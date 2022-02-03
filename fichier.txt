@@ -1,0 +1,8 @@
+0	Leon
+0	Brock
+0	May
+1	Charizard	10	2	50	25	Static	10	5
+1	Pikachu	10	2	50	25	Blaze	10	5
+1	Squirtle	10	2	50	25	Torrent	10	5
+1	Bulbasaur	10	2	50	25	Overgrow	10	5
+1	Snorlax	10	2	50	25	Snore	10	5
